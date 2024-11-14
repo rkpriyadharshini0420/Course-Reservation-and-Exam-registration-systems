@@ -45,7 +45,17 @@ c. Better Service
 
 #  Description of all Diagrams 
 
-
-
-
+# Use case Diagrams
+A use case is a methodology used in system analysis to identify, clarify, and organize system requirements. The use case is made up of a set of possible sequences of interactions between systems and users in a particular environment and related to a particular goal
+# Class Diagram
+A class is drawn as rectangle box with three compartments or components separated by horizontal lines. The top compartment holds the class name and middle compartment holds the attribute and bottom compartment holds list of operations.
+# Sequence Diagram
+A sequence diagram in Unified Modeling Language (UML) is a kind of interaction diagram that shows how processes operate with one another and in what order.
+# Activity Diagram
+An activity diagram is a variation or special case of a state machine in which the states or activity representing the performance of operation and transitions are triggered by the completion of operation
+# PACKAGE DIAGRAM:
+A package diagram is represented as a folder shown as a large rectangle with a top attached to its upper left corner. A package may contain both sub ordinate package and ordinary model elements. 
+# COLLABORATION DIAGRAM:
+ A collaboration diagram is similar to sequence diagram but the message in number format. In a collaboration diagram sequence diagram is indicated by the numbering the message. A collaboration diagram, also called a communication diagram or interaction diagram
 # Result
+   Thus the  student registration system project was executed and the output was verified.
