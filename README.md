@@ -9,8 +9,7 @@ a. Effective for Administration Purpose
 b. Cost effective
 c. Better Service
 # SOFTWARE REQUIREMENTS:
-  Rational Rose
-  SQL 8.0
+  Star UML
 # HARDWARE REQUIREMENTS:
   1.512MB RAM
   2.Pentium III Processor
